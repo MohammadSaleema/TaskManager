@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 **Check out the live application here:**
-🔗 **[https://MohammadSaleema.github.io/TaskManager](https://MohammadSaleema.github.io/TaskManager)**
+🔗 **[https://MohammadSaleema.github.io/MohammadSaleemaTaskManager](https://MohammadSaleema.github.io/MohammadSaleemaTaskManager)**
 
 ---
 
